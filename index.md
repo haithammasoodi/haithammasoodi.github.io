@@ -47,5 +47,3 @@ Pursuing 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 Engineeri
   <p align="center">
   <a href="#"><img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=haithammasoodi&hide_border=true&theme=light"></a></p>
 </details>
-
-
